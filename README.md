@@ -18,6 +18,11 @@ Desarrollar una aplicación GUI utilizando Tkinter en Python que funcione como u
 <img width="869" height="602" alt="image" src="https://github.com/user-attachments/assets/5d126431-1c6d-48c6-8178-4d1e9dac148e" />
 
 ### Selección de eventos y eliminación
+<img width="870" height="600" alt="image" src="https://github.com/user-attachments/assets/fb79e06b-e50e-4d34-a0c8-388b22978758" />
+<img width="874" height="598" alt="image" src="https://github.com/user-attachments/assets/16b63b34-56b3-44fd-b08b-c70f05ea8dc6" />
+<img width="872" height="593" alt="image" src="https://github.com/user-attachments/assets/246c1785-82e3-4ec1-a5f2-a475d6fd5ac6" />
+
+
 
 
 
